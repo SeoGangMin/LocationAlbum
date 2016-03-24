@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/seogangmin/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0-alpha1/support-annotations-24.0.0-alpha1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b8062546971a3d196343232a19a3c0016272ba47">
+        <dex dex="/Users/seogangmin/Desktop/Development/github/seogangmin/SelfAnalysis/LocationAlbum/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0-alpha1-0f614ffccdbfd54b8220c8f912600350e13a5f0e.jar" />
+    </item>
+    <item
+        jar="/Users/seogangmin/Desktop/Development/github/seogangmin/SelfAnalysis/LocationAlbum/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ed88e1f0c8fbf66e1da918545f0a6790f893bceb">
+        <dex dex="/Users/seogangmin/Desktop/Development/github/seogangmin/SelfAnalysis/LocationAlbum/app/build/intermediates/pre-dexed/debug/classes-4a2c8ff0d48670ddfd857e5c09ba25fc6926bf54.jar" />
+    </item>
+    <item
+        jar="/Users/seogangmin/Desktop/Development/github/seogangmin/SelfAnalysis/LocationAlbum/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-alpha1/jars/libs/internal_impl-24.0.0-alpha1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e57fba0a2d57d3501d8f4ff44c23092978804845">
+        <dex dex="/Users/seogangmin/Desktop/Development/github/seogangmin/SelfAnalysis/LocationAlbum/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0-alpha1-b14cbbb43ca1d1ad333d747a9f2211946de79cde.jar" />
+    </item>
+    <item
+        jar="/Users/seogangmin/Desktop/Development/github/seogangmin/SelfAnalysis/LocationAlbum/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9aaaea3a89040f8176f810c85e288fc74d5d1f12">
+        <dex dex="/Users/seogangmin/Desktop/Development/github/seogangmin/SelfAnalysis/LocationAlbum/app/build/intermediates/pre-dexed/debug/classes-ae033aa50661ba657ce629c5d63b9d9e0538f6c2.jar" />
+    </item>
+    <item
+        jar="/Users/seogangmin/Desktop/Development/github/seogangmin/SelfAnalysis/LocationAlbum/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a6af5beedc2e8c946abc3771525e2fed77439309">
+        <dex dex="/Users/seogangmin/Desktop/Development/github/seogangmin/SelfAnalysis/LocationAlbum/app/build/intermediates/pre-dexed/debug/classes-fb380eba6aa9942e0fc44c49935d36112fe1e976.jar" />
+    </item>
+    <item
+        jar="/Users/seogangmin/Desktop/Development/github/seogangmin/SelfAnalysis/LocationAlbum/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9684c95278dc45a142d7de3db9e7e39aa520e1e0">
+        <dex dex="/Users/seogangmin/Desktop/Development/github/seogangmin/SelfAnalysis/LocationAlbum/app/build/intermediates/pre-dexed/debug/classes-9da1f684a8eed4edfdef07cd42a62af28d9fc422.jar" />
+    </item>
+
+</items>
